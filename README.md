@@ -1,5 +1,7 @@
 # Tableau_NY_CityBike
 
+https://public.tableau.com/profile/aparna.paul#!/vizhome/W20_Tableau_NY_Bike/Dashboard1?publish=yes
+
 This dataset set contains monthly data for the past 1 year of NY CityBike system data from: https://www.citibikenyc.com/system-data. It combines the monthly files from Oct2017 to Sep2018 including some added fields (e.g., trip duration in minutes, day of week, etc.), and removes trips that were longer than a day.
 
 Here, I explored the following questions to create the visualizations:
